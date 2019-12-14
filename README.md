@@ -1,1 +1,0 @@
-# CandH_Comic_Scraper
